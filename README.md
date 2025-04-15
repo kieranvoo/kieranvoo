@@ -5,8 +5,8 @@
 Hi there! I'm Kieran, a Data Science and Accounting undergraduate at NTU Singapore. I enjoy building data-driven applications and working on real-world projects such as predicting breast cancer types, and football player's valuations. I am eager to such as building predictive models, developing software applications, and solve more real-world problems with data.
 
 ## 🚀 What I'm Up To
-* 📊 Just completed a data analysis project on football players' valuations, using statistical techniques to explore factors influencing market prices
-* 🏦 Designed and implemented a SQL database schema for a financial investment platform to simulate investor profiles and portfolio performance
+* 📊 Just completed a data analysis project on [football players' valuations](https://github.com/kieranvoo/Analysing-Football-Player-s-Valuation), using statistical techniques to explore factors influencing market prices
+* 🏦 Designed and implemented a SQL database schema for a [financial investment platform](https://github.com/kieranvoo/Financial-App-Database) to simulate investor profiles and portfolio performance
 * 💬 Continuing development on my mental health chatbot, [EchoMind](https://github.com/kieranvoo/EchoMind---Mental-Health-Chatbot), working to improve its conversational flow and sentiment analysis features
 * ☁️ Beginning to explore cloud technologies and infrastructure to better deploy and scale my applications
 
@@ -29,4 +29,5 @@ Languages:
 - [kieranvoo/Financial-App-Database](https://github.com/kieranvoo/Financial-App-Database): Designed and implemented a relational SQL database to simulate investor profiles, portfolios, and transactions for a financial application  
 - [kieranvoo/Echomind---Mental-Health-Chatbot](https://github.com/kieranvoo/Echomind---Mental-Health-Chatbot): Full-stack web chatbot for mental health support, integrating sentiment analysis and response tracking to assist practitioners and users  
 - [kieranvoo/Analysing-Football-Player-s-Valuation](https://github.com/kieranvoo/Analysing-Football-Player-s-Valuation): Data analysis project exploring factors affecting football players’ market values using visualisation and statistical modelling techniques  
+- [kieranvoo/Hospital-Management-System](https://github.com/kieranvoo/Hospital-Management-System): Java-based application designed to manage hospital operations such as patient records, appointments, billing, and staff roles with role-based access control for doctors, pharmacists, patients, and administrators.
 - And more to come!
