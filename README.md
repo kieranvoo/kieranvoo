@@ -2,7 +2,7 @@
   Hi I'm Kieran!
 
 ## 🎓 About Me:
-Hi there! I'm Kieran, a Data Science undergraduate at NTU Singapore. I enjoy building data-driven applications and working on real-world projects such as predicting breast cancer types, and football player's valuations. I am eager to such as building predictive models, developing software applications, and solve more real-world problems with data.
+Hi there! I'm Kieran, a Data Science and Accounting undergraduate at NTU Singapore. I enjoy building data-driven applications and working on real-world projects such as predicting breast cancer types, and football player's valuations. I am eager to such as building predictive models, developing software applications, and solve more real-world problems with data.
 
 ## 🚀 What I'm Up To
 * 📊 Just completed a data analysis project on football players' valuations, using statistical techniques to explore factors influencing market prices
