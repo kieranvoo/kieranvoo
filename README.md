@@ -7,7 +7,7 @@ Hi there! I'm Kieran, a Data Science undergraduate at NTU Singapore. I enjoy bui
 ## 🚀 What I'm Up To
 * 📊 Just completed a data analysis project on football players' valuations, using statistical techniques to explore factors influencing market prices
 * 🏦 Designed and implemented a SQL database schema for a financial investment platform to simulate investor profiles and portfolio performance
-* 💬 Continuing development on my mental health chatbot, [EchoMind](https://github.com/your-username/EchoMind---Mental-Health-Chatbot), working to improve its conversational flow and sentiment analysis features
+* 💬 Continuing development on my mental health chatbot, [EchoMind](https://github.com/kieranvoo/EchoMind---Mental-Health-Chatbot), working to improve its conversational flow and sentiment analysis features
 * ☁️ Beginning to explore cloud technologies and infrastructure to better deploy and scale my applications
 
 ## 🌐 Connect with me:
